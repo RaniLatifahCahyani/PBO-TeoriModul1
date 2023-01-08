@@ -19,6 +19,8 @@ Memasukkan Y : 2
 Memasukkan Z : 3
 Hitung Total Av : (X+Y+Z)/3
 Cetak Total (Av)
+
+
 1.7.2 Konversi Sistem Bilangan
 
 198010 ke bilangan Biner, Heksadesimal, dan Oktal
